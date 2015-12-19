@@ -49,6 +49,7 @@
                 <rap-site>http://download.eclipse.org/rt/rap/3.0</rap-site>
                 <rap-gef-site>http://download.eclipse.org/rt/rap/incubator/nightly/gef/20150122-1538</rap-gef-site>
                 <rap-e4-site>http://download.eclipse.org/rt/rap/incubator/nightly/e4/target/site</rap-e4-site>
+                <b2-site>https://sussrv01.ziti.uni-heidelberg.de/~ritzert/PXD/CSS4-p2</b2-site>
                 <platform-version>[4.3,4.4)</platform-version>
             </properties>
         </profile>
@@ -98,6 +99,11 @@
         <repository>
             <id>orbit</id>
             <url>${orbit-site}</url>
+            <layout>p2</layout>
+        </repository>
+        <repository>
+            <id>belle2</id>
+            <url>${b2-site}</url>
             <layout>p2</layout>
         </repository>
     </repositories>

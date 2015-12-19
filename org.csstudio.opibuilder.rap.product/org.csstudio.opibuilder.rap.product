@@ -30,6 +30,7 @@
       <feature id="org.csstudio.archive.reader.rdb.feature"/>
       <feature id="org.csstudio.applications.opibuilder.rap.feature"/>
       <feature id="org.csstudio.jdbc.feature"/>
+      <feature id="org.csstudio.b2vxd.unicos.rap.feature"/>
    </features>
 
    <configurations>
