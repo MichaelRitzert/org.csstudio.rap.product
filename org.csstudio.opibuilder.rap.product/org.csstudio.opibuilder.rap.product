@@ -31,6 +31,7 @@
       <feature id="org.csstudio.applications.opibuilder.rap.feature"/>
       <feature id="org.csstudio.jdbc.feature"/>
       <feature id="org.csstudio.b2vxd.unicos.rap.feature"/>
+      <feature id="de.uniheidelberg.ziti.configdb.rap.feature"/>
    </features>
 
    <configurations>
