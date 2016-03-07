@@ -29,6 +29,7 @@
    <features>
       <feature id="org.csstudio.trends.databrowser2.rap.feature"/>
       <feature id="org.csstudio.archive.reader.rdb.feature"/>
+      <feature id="org.csstudio.archive.reader.appliance.feature"/>
       <feature id="org.csstudio.jdbc.feature"/>
    </features>
 
