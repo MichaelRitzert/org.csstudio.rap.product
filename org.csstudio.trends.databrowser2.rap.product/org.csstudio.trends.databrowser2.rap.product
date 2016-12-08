@@ -51,7 +51,6 @@
       <plugin id="org.csstudio.archive.reader.rdb" autoStart="true" startLevel="0" />
       <plugin id="org.csstudio.archive.vtype" autoStart="true" startLevel="0" />
       <plugin id="org.csstudio.autocomplete" autoStart="true" startLevel="0" />
-      <plugin id="org.csstudio.autocomplete.archive" autoStart="true" startLevel="0" />
       <plugin id="org.csstudio.autocomplete.pvmanager.ca" autoStart="true" startLevel="0" />
       <plugin id="org.csstudio.autocomplete.pvmanager.formula" autoStart="true" startLevel="0" />
       <plugin id="org.csstudio.autocomplete.pvmanager.loc" autoStart="true" startLevel="0" />

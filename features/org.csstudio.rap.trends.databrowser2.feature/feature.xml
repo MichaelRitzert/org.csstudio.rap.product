@@ -10,13 +10,6 @@
    </description>
 
    <plugin
-         id="org.csstudio.autocomplete.archive"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
          id="org.csstudio.apputil"
          download-size="0"
          install-size="0"
