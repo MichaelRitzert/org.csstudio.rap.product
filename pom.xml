@@ -51,6 +51,7 @@
                 <rap-site>${eclipse.mirror.url}/rt/rap/3.0</rap-site>
                 <rap-gef-site>${eclipse.mirror.url}/rt/rap/incubator/nightly/gef/20150327-1849</rap-gef-site>
                 <rap-e4-site>${eclipse.central.url}/rt/rap/incubator/3.0/e4/target/site</rap-e4-site>
+                <b2-site>https://sus.ziti.uni-heidelberg.de/~ritzert/Belle2/CSS/4.3.x/p2</b2-site>
                 <platform-version>[4.4,4.5)</platform-version>
             </properties>
         </profile>
@@ -120,6 +121,11 @@
         <repository>
             <id>orbit</id>
             <url>${orbit-site}</url>
+            <layout>p2</layout>
+        </repository>
+        <repository>
+            <id>belle2</id>
+            <url>${b2-site}</url>
             <layout>p2</layout>
         </repository>
     </repositories>
